@@ -11,7 +11,7 @@ Nesta aula, vamos começar o nosso projeto da recriação da página inicial do 
 * Introduzir as propriedades de estilo do CSS no projeto, com truques no Devtools.
 
 # aula 2
-* Nesta aula, você vai:
+Nesta aula, vamos abordar o código do menu lateral e aprofundar-nos em CSS, explorando posicionamento, layouts e a técnica do Flexbox
 * Criar todo menu lateral da página;
 * Aprender os fundamentos do CSS Flexbox;
 * Saber mais sobre posicionamentos no CSS.
