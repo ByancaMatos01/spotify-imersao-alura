@@ -9,3 +9,9 @@ Nesta aula, vamos começar o nosso projeto da recriação da página inicial do 
 * Fazer a sidebar navigation;
 * Aprender dicas de atalho no VSCode para escrever HTML;
 * Introduzir as propriedades de estilo do CSS no projeto, com truques no Devtools.
+
+# aula 2
+* Nesta aula, você vai:
+* Criar todo menu lateral da página;
+* Aprender os fundamentos do CSS Flexbox;
+* Saber mais sobre posicionamentos no CSS.
