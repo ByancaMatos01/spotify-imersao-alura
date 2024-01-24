@@ -15,3 +15,11 @@ Nesta aula, vamos abordar o código do menu lateral e aprofundar-nos em CSS, exp
 * Criar todo menu lateral da página;
 * Aprender os fundamentos do CSS Flexbox;
 * Saber mais sobre posicionamentos no CSS.
+  
+# aula 3
+Nesta aula, nos concentraremos na estrutura do código, além de irmos mais a fundo no CSS, mexendo com as variáveis; entendendo conceitos de responsividade e, também, criando o menu superior.
+* Estruturar melhor o projeto;
+* Refatorar o código;
+* Fazer o layout flexbox;
+* Aprender conceitos de responsividade;
+* Criar o menu superior.
