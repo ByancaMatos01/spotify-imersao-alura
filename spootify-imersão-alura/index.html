@@ -6,10 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spotify Imersão </title>
 
-    <link rel="stylesheet" href="reset.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./styles/reset.css">
+    <link rel="stylesheet" href="./styles/vars.css">
+    <link rel="stylesheet" href="./styles/main-content.css">
+    <link rel="stylesheet" href="./styles/sidebar-footer.css">
+  
 
-   <link rel="shortcut icon" href="./assets/favicon.png" type="image/x-icon">
+   <link rel="shortcut icon" href="./assets/icon/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/solid.css"
     integrity="sha384-Tv5i09RULyHKMwX0E8wJUqSOaXlyu3SQxORObAI08iUwIalMmN5L6AvlPX2LMoSE" crossorigin="anonymous" />
 
@@ -21,7 +24,7 @@
         <nav class="sidebar__navigation">
             <div class="logo">
                 <a href="">
-                    <img src="./assets/logo-spotify.png" alt="Logo" />
+                    <img src="./assets/icon/logo-spotify.png" alt="Logo" />
                 </a>
             </div>
             <ul>
@@ -67,9 +70,36 @@
                 
             </div>
             
-        </div>
-         
+        </div>    
     </div>
+
+    <main>
+        <div class="main-container">
+            <nav class="header__navigation">
+                <div class="navigation">
+                    <button class="arrow-left">
+                        <img src="./assets/icon/small-left.png" alt="Seta esquerda">
+                    </button>
+                    <button class="arrow-right">
+                        <img src="./assets/icon/small-right.png" alt="Seta direita">
+                    </button>
+                </div>
+                <div class="header__search">
+                    <img src="./assets/icon/search.png" alt="">
+                    <input id="search-input" type="text" maxlength="800" placeholder="O que você quer ouvir?" />
+                </div>
+                <div class="header__login">
+                    <button class="subscribe">Inscreva-se</button>
+                    <button class="login">Entrar</button>
+                </div>
+            </nav>
+        </div>
+    </main>
+
+
+
+
+
     <footer class="footer-spotify">
         <div class="footer-spotify_content">
             <span class="title-footer"> Inscreva-se para curtir música limitada e podcasts só com alguns anúncios.Não precisa de cartão de credito.</span>
