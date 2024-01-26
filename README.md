@@ -33,3 +33,8 @@ Nesta aula, nos concentraremos na estrutura do código, além de irmos mais a fu
 * Introduzir o JavaScript no projeto;
 * Utilizar o conceito DOM;
 * Conhecer o método Promises do JavaScript.
+
+# aula 5
+* Dar introdução a um projeto React;
+* Utilizar o framework React para criar o componente <Header>;
+* Aprender as diferenças entre Angular e React.
